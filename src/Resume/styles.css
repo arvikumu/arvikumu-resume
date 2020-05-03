@@ -1,0 +1,9 @@
+body {
+  margin: 16px;
+}
+
+.resume-view-container {
+  margin: auto;
+  width: 800px;
+  height: 1200px;
+}
