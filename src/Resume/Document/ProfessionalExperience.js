@@ -53,7 +53,7 @@ function ProfessionalExperience() {
           Koinearth India Private Limited:{" "}
         </Text>
         <Text style={{ ...styles.section }}>
-          (Senior Frontend Engineer ~ [Dec'2018 - Present])
+          (Senior Frontend Engineer ~ [Dec'2018 - Jan'2021])
         </Text>
       </View>
       <View style={styles["content-container"]}>

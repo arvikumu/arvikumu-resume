@@ -66,8 +66,8 @@ function ResumeDocumentIntro() {
       <View style={styles["intro-right-view-container"]}>
         <Text style={styles["mobile-number"]}>+91-8681859577</Text>
         <Text style={styles.email}>
-          <Link src="mailto:arvikumu1234@gmail.com">
-            arvikumu1234@gmail.com
+          <Link src="mailto:arvikumu28@gmail.com">
+            arvikumu28@gmail.com
           </Link>
         </Text>
         <Text style={styles.linkedin}>
@@ -76,7 +76,7 @@ function ResumeDocumentIntro() {
           </Link>
         </Text>
         <Text style={styles.linkedin}>
-          <Link src="https://resume.arvikumu.dev">resume.arvikumu.dev</Link>
+          <Link src="https://github.com/arvikumu">github.com/arvikumu</Link>
         </Text>
       </View>
     </View>
